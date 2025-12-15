@@ -1,0 +1,891 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{Altintas2012_A4}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=b331534b12425e13d037b62b8520e9e3}{%
+           family={Altintas},
+           familyi={A\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{b331534b12425e13d037b62b8520e9e3}
+      \strng{fullhash}{b331534b12425e13d037b62b8520e9e3}
+      \strng{fullhashraw}{b331534b12425e13d037b62b8520e9e3}
+      \strng{bibnamehash}{b331534b12425e13d037b62b8520e9e3}
+      \strng{authorbibnamehash}{b331534b12425e13d037b62b8520e9e3}
+      \strng{authornamehash}{b331534b12425e13d037b62b8520e9e3}
+      \strng{authorfullhash}{b331534b12425e13d037b62b8520e9e3}
+      \strng{authorfullhashraw}{b331534b12425e13d037b62b8520e9e3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{Manufacturing Automation: Metal Cutting Mechanics, Machine Tool Vibrations, and CNC Design}
+      \field{year}{2012}
+      \verb{doi}
+      \verb 10.1017/CBO9780511843723
+      \endverb
+      \keyw{A4.1}
+    \endentry
+    \entry{AltintasBudak1995_A4}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=b331534b12425e13d037b62b8520e9e3}{%
+           family={Altintas},
+           familyi={A\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=48d18b44d2d8ec1540393c71aeb9e4c5}{%
+           family={Budak},
+           familyi={B\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{96ddc4fa3a480f0dc62fc29c448552a9}
+      \strng{fullhash}{493e253595533c8af10a57e2657b315d}
+      \strng{fullhashraw}{493e253595533c8af10a57e2657b315d}
+      \strng{bibnamehash}{493e253595533c8af10a57e2657b315d}
+      \strng{authorbibnamehash}{493e253595533c8af10a57e2657b315d}
+      \strng{authornamehash}{96ddc4fa3a480f0dc62fc29c448552a9}
+      \strng{authorfullhash}{493e253595533c8af10a57e2657b315d}
+      \strng{authorfullhashraw}{493e253595533c8af10a57e2657b315d}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CIRP Annals--Manufacturing Technology}
+      \field{number}{1}
+      \field{title}{Analytical prediction of stability lobes in milling}
+      \field{volume}{44}
+      \field{year}{1995}
+      \field{pages}{357\bibrangedash 362}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/S0007-8506(07)62342-7
+      \endverb
+      \keyw{A4.2}
+    \endentry
+    \entry{Cao2016_Synchrosqueezing}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=039f70565cc95ccd6851ad393fcf2844}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=1c4b7bdab654f4b1c3105bb759b5df62}{%
+           family={Yue},
+           familyi={Y\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=60aeb23a507616b6ae2488ddaab41f0e}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+        {{hash=30ff3ef4a89e0c6777f480da5386b053}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{011259d2215e1168209595bae18dc070}
+      \strng{fullhash}{8df92326e6cc7c1d8196df145e507156}
+      \strng{fullhashraw}{8df92326e6cc7c1d8196df145e507156}
+      \strng{bibnamehash}{8df92326e6cc7c1d8196df145e507156}
+      \strng{authorbibnamehash}{8df92326e6cc7c1d8196df145e507156}
+      \strng{authornamehash}{011259d2215e1168209595bae18dc070}
+      \strng{authorfullhash}{8df92326e6cc7c1d8196df145e507156}
+      \strng{authorfullhashraw}{8df92326e6cc7c1d8196df145e507156}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Advanced Manufacturing Technology}
+      \field{number}{9--12}
+      \field{title}{Chatter detection in milling process based on synchrosqueezing transform of sound signals}
+      \field{volume}{89}
+      \field{year}{2017}
+      \field{pages}{2747\bibrangedash 2755}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1007/s00170-016-9660-7
+      \endverb
+      \keyw{A4.22}
+    \endentry
+    \entry{Cao2017_Early_A3}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=039f70565cc95ccd6851ad393fcf2844}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=b828859093337f367dec073885b8bfaa}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=60aeb23a507616b6ae2488ddaab41f0e}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+        {{hash=30ff3ef4a89e0c6777f480da5386b053}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{011259d2215e1168209595bae18dc070}
+      \strng{fullhash}{807906e37eec7084d4dbdf0b4154b2c0}
+      \strng{fullhashraw}{807906e37eec7084d4dbdf0b4154b2c0}
+      \strng{bibnamehash}{807906e37eec7084d4dbdf0b4154b2c0}
+      \strng{authorbibnamehash}{807906e37eec7084d4dbdf0b4154b2c0}
+      \strng{authornamehash}{011259d2215e1168209595bae18dc070}
+      \strng{authorfullhash}{807906e37eec7084d4dbdf0b4154b2c0}
+      \strng{authorfullhashraw}{807906e37eec7084d4dbdf0b4154b2c0}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Advanced Manufacturing Technology}
+      \field{number}{9--12}
+      \field{title}{Early chatter detection in end milling based on multi-feature fusion and 3$\sigma$ criterion}
+      \field{volume}{92}
+      \field{year}{2017}
+      \field{pages}{4387\bibrangedash 4397}
+      \range{pages}{11}
+      \keyw{A3.5}
+    \endentry
+    \entry{Chen2019}{article}{}{}
+      \name{author}{8}{}{%
+        {{hash=38241eaee18102cab15a125b0654c7da}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7ebd959a1c9799dfeac863b98020944b}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=32c575590c3e6521537cdae5efd16ff0}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=51e5fb9f55c5b5d1edb17aea3861c908}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c07ce798bf4593ee8c16430742968c61}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0f60fb19d048e40c3e2510ca11e6fed2}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=7605b60e61210edb67ac210db54a3ab8}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=08835018e7f90fcf262517bf88eb4d72}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{009ae0939de2e2902cbc6c9fa114de64}
+      \strng{fullhash}{978ca7ed2f56258f2bc3b8815d3ef1ba}
+      \strng{fullhashraw}{978ca7ed2f56258f2bc3b8815d3ef1ba}
+      \strng{bibnamehash}{978ca7ed2f56258f2bc3b8815d3ef1ba}
+      \strng{authorbibnamehash}{978ca7ed2f56258f2bc3b8815d3ef1ba}
+      \strng{authornamehash}{009ae0939de2e2902cbc6c9fa114de64}
+      \strng{authorfullhash}{978ca7ed2f56258f2bc3b8815d3ef1ba}
+      \strng{authorfullhashraw}{978ca7ed2f56258f2bc3b8815d3ef1ba}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Engineering}
+      \field{title}{Toward intelligent machine tool}
+      \field{volume}{5}
+      \field{year}{2019}
+      \field{pages}{679\bibrangedash 690}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.eng.2019.07.018
+      \endverb
+      \keyw{A1.8}
+    \endentry
+    \entry{Delio1992Audio}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=12855e2161cd0dad55a63cc1aaeb0066}{%
+           family={Delio},
+           familyi={D\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a8fcc6c58cc7ef9cd2b5be10d39b70d0}{%
+           family={Tlusty},
+           familyi={T\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2c528ec769079cc43320d94eb0c26a74}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a5cceafc77db8bb520180d512f22bfbd}
+      \strng{fullhash}{82e408c4a3e6d4af43e58e0ee0236848}
+      \strng{fullhashraw}{82e408c4a3e6d4af43e58e0ee0236848}
+      \strng{bibnamehash}{82e408c4a3e6d4af43e58e0ee0236848}
+      \strng{authorbibnamehash}{82e408c4a3e6d4af43e58e0ee0236848}
+      \strng{authornamehash}{a5cceafc77db8bb520180d512f22bfbd}
+      \strng{authorfullhash}{82e408c4a3e6d4af43e58e0ee0236848}
+      \strng{authorfullhashraw}{82e408c4a3e6d4af43e58e0ee0236848}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ASME Journal of Engineering for Industry}
+      \field{number}{2}
+      \field{title}{Use of audio signals for chatter detection and control}
+      \field{volume}{114}
+      \field{year}{1992}
+      \field{pages}{146\bibrangedash 157}
+      \range{pages}{12}
+      \keyw{A2.15}
+    \endentry
+    \entry{Li2017}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=ae6f64f7b429f6425fbe070323390f1b}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=61ad10c626e1d641e0b1d7b5f48d3233}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=c9a1279242d2a624a0da6fa434f82b1f}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={K.\bibnamedelimi S.},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{eabde58fb49cfb136eadd6480e920b1b}
+      \strng{fullhash}{2ac98aa3718cf92776aeac83bd966197}
+      \strng{fullhashraw}{2ac98aa3718cf92776aeac83bd966197}
+      \strng{bibnamehash}{2ac98aa3718cf92776aeac83bd966197}
+      \strng{authorbibnamehash}{2ac98aa3718cf92776aeac83bd966197}
+      \strng{authornamehash}{eabde58fb49cfb136eadd6480e920b1b}
+      \strng{authorfullhash}{2ac98aa3718cf92776aeac83bd966197}
+      \strng{authorfullhashraw}{2ac98aa3718cf92776aeac83bd966197}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advanced Manufacturing}
+      \field{title}{Intelligent predictive maintenance for fault diagnosis and prognosis in machine centers: Industry 4.0 scenario}
+      \field{volume}{5}
+      \field{year}{2017}
+      \field{pages}{377\bibrangedash 387}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1007/s40436-017-0203-8
+      \endverb
+      \keyw{A1.6}
+    \endentry
+    \entry{Hernandez2025_EarlyChatter}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=80ac5db1b172a441b4a8c7c789a6be39}{%
+           family={Mireles},
+           familyi={M\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d9a2e6c89fd0f04c5d0610ae8e9467f4}{%
+           family={Guskov},
+           familyi={G\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=91ef8dda2f056400ae95c0c6595babb2}{%
+           family={Lorong},
+           familyi={L\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{b3dfb22ddb96c5f50b3d1327614b1406}
+      \strng{fullhash}{772468d9f81315baa813195f5d41021e}
+      \strng{fullhashraw}{772468d9f81315baa813195f5d41021e}
+      \strng{bibnamehash}{772468d9f81315baa813195f5d41021e}
+      \strng{authorbibnamehash}{772468d9f81315baa813195f5d41021e}
+      \strng{authornamehash}{b3dfb22ddb96c5f50b3d1327614b1406}
+      \strng{authorfullhash}{772468d9f81315baa813195f5d41021e}
+      \strng{authorfullhashraw}{772468d9f81315baa813195f5d41021e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{MM Science Journal}
+      \field{title}{Early Chatter Detection Through Real-Time Supervision and Time-Domain Simulation-Based Indicators}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.17973/MMSJ.2025_11_2025147
+      \endverb
+      \keyw{A4.17}
+    \endentry
+    \entry{Nath2020}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=a056c65b08eae083a6c8c138dd356dce}{%
+           family={Nath},
+           familyi={N\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{a056c65b08eae083a6c8c138dd356dce}
+      \strng{fullhash}{a056c65b08eae083a6c8c138dd356dce}
+      \strng{fullhashraw}{a056c65b08eae083a6c8c138dd356dce}
+      \strng{bibnamehash}{a056c65b08eae083a6c8c138dd356dce}
+      \strng{authorbibnamehash}{a056c65b08eae083a6c8c138dd356dce}
+      \strng{authornamehash}{a056c65b08eae083a6c8c138dd356dce}
+      \strng{authorfullhash}{a056c65b08eae083a6c8c138dd356dce}
+      \strng{authorfullhashraw}{a056c65b08eae083a6c8c138dd356dce}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Procedia Manufacturing}
+      \field{title}{Integrated tool condition monitoring systems and their applications: a comprehensive review}
+      \field{volume}{48}
+      \field{year}{2020}
+      \field{pages}{852\bibrangedash 863}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.promfg.2020.05.123
+      \endverb
+      \keyw{A1.25}
+    \endentry
+    \entry{Quintana2011}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=de9b2168a08921823f0e4b6976b3a497}{%
+           family={Quintana},
+           familyi={Q\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=315848523c27ccfa746f5a7c49b8deea}{%
+           family={Ciurana},
+           familyi={C\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{11e3703e5213fa23e3338ec076fa8bf2}
+      \strng{fullhash}{e108b290d3c237f46a267b928a7a5058}
+      \strng{fullhashraw}{e108b290d3c237f46a267b928a7a5058}
+      \strng{bibnamehash}{e108b290d3c237f46a267b928a7a5058}
+      \strng{authorbibnamehash}{e108b290d3c237f46a267b928a7a5058}
+      \strng{authornamehash}{11e3703e5213fa23e3338ec076fa8bf2}
+      \strng{authorfullhash}{e108b290d3c237f46a267b928a7a5058}
+      \strng{authorfullhashraw}{e108b290d3c237f46a267b928a7a5058}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Machine Tools and Manufacture}
+      \field{title}{Chatter in machining processes: a review}
+      \field{volume}{51}
+      \field{year}{2011}
+      \field{pages}{363\bibrangedash 376}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.ijmachtools.2011.01.001
+      \endverb
+      \keyw{A1.1}
+    \endentry
+    \entry{Tangjitsitcharoen2013_A4}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=f6e122e3b0e5340c1226784c5d35977f}{%
+           family={Tangjitsitcharoen},
+           familyi={T\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d318dbf1622cfdebfc8a6db2089ddda0}{%
+           family={Saksri},
+           familyi={S\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=3efd1cf0656077b374360448c90b7a55}{%
+           family={Ratanakuakangwan},
+           familyi={R\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{e3a8e2eecd4a5de546a2d85dcdbcb736}
+      \strng{fullhash}{aee6ef94a8ee590004c7e0cb84013ff7}
+      \strng{fullhashraw}{aee6ef94a8ee590004c7e0cb84013ff7}
+      \strng{bibnamehash}{aee6ef94a8ee590004c7e0cb84013ff7}
+      \strng{authorbibnamehash}{aee6ef94a8ee590004c7e0cb84013ff7}
+      \strng{authornamehash}{e3a8e2eecd4a5de546a2d85dcdbcb736}
+      \strng{authorfullhash}{aee6ef94a8ee590004c7e0cb84013ff7}
+      \strng{authorfullhashraw}{aee6ef94a8ee590004c7e0cb84013ff7}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Intelligent Manufacturing}
+      \field{number}{3}
+      \field{title}{Advance in chatter detection in ball end milling process by utilizing wavelet transform}
+      \field{volume}{26}
+      \field{year}{2013}
+      \field{pages}{485\bibrangedash 499}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1007/s10845-013-0805-3
+      \endverb
+      \keyw{A4.11}
+    \endentry
+    \entry{Tansel2010_TorqueIBR_A5}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=2ea23f5b681037f5fb543c808696e611}{%
+           family={Tansel},
+           familyi={T\bibinitperiod},
+           given={I.\bibnamedelimi N.},
+           giveni={I\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=32ecf3b8563f881c200eaaf65381ff0d}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ad198328f6d422afbe73a6a14ae55294}{%
+           family={Demetgul},
+           familyi={D\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=cb6a6957fb1f20224a18b1c0516499d8}{%
+           family={Bickraj},
+           familyi={B\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=68f264d94f5ec90af7e62277411b5d8b}{%
+           family={Kaya},
+           familyi={K\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=43c87a91f60ecf590da413c28e8fdbeb}{%
+           family={Ozcelik},
+           familyi={O\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbab4d4b4cf47dffb3e845257b277c51}
+      \strng{fullhash}{3beaae6e6e1c9623d7d6e67153a44ed8}
+      \strng{fullhashraw}{3beaae6e6e1c9623d7d6e67153a44ed8}
+      \strng{bibnamehash}{3beaae6e6e1c9623d7d6e67153a44ed8}
+      \strng{authorbibnamehash}{3beaae6e6e1c9623d7d6e67153a44ed8}
+      \strng{authornamehash}{cbab4d4b4cf47dffb3e845257b277c51}
+      \strng{authorfullhash}{3beaae6e6e1c9623d7d6e67153a44ed8}
+      \strng{authorfullhashraw}{3beaae6e6e1c9623d7d6e67153a44ed8}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Advanced Manufacturing Technology}
+      \field{number}{1--4}
+      \field{title}{Detecting chatter and estimating wear from the torque of end milling signals by using Index Based Reasoner (IBR)}
+      \field{volume}{58}
+      \field{year}{2012}
+      \field{pages}{109\bibrangedash 118}
+      \range{pages}{10}
+      \keyw{A5.14}
+    \endentry
+    \entry{Wang2016_RoboticBoring_A5}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=394d641a0626e0504be74152c455899d}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=32de7f7ffc430ab53501fac80899ff65}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=cdfee844c95f916f2619a26fab25991b}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=f3d24087953defbbec626cb66710363a}{%
+           family={Ke},
+           familyi={K\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{9e0bb28093a7c3159fe418fdd4f67e6e}
+      \strng{fullhash}{8da3546d51ad7dd66dc47c8f4be4a5ef}
+      \strng{fullhashraw}{8da3546d51ad7dd66dc47c8f4be4a5ef}
+      \strng{bibnamehash}{8da3546d51ad7dd66dc47c8f4be4a5ef}
+      \strng{authorbibnamehash}{8da3546d51ad7dd66dc47c8f4be4a5ef}
+      \strng{authornamehash}{9e0bb28093a7c3159fe418fdd4f67e6e}
+      \strng{authorfullhash}{8da3546d51ad7dd66dc47c8f4be4a5ef}
+      \strng{authorfullhashraw}{8da3546d51ad7dd66dc47c8f4be4a5ef}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Advanced Manufacturing Technology}
+      \field{title}{Dynamic cutting force modeling and experimental study of industrial robotic boring}
+      \field{volume}{86}
+      \field{year}{2016}
+      \field{pages}{179\bibrangedash 190}
+      \range{pages}{12}
+      \keyw{A5.1}
+    \endentry
+    \entry{Wang2018_RoboticBoring_EMD}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=394d641a0626e0504be74152c455899d}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=32de7f7ffc430ab53501fac80899ff65}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=cdfee844c95f916f2619a26fab25991b}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=f3d24087953defbbec626cb66710363a}{%
+           family={Ke},
+           familyi={K\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{9e0bb28093a7c3159fe418fdd4f67e6e}
+      \strng{fullhash}{8da3546d51ad7dd66dc47c8f4be4a5ef}
+      \strng{fullhashraw}{8da3546d51ad7dd66dc47c8f4be4a5ef}
+      \strng{bibnamehash}{8da3546d51ad7dd66dc47c8f4be4a5ef}
+      \strng{authorbibnamehash}{8da3546d51ad7dd66dc47c8f4be4a5ef}
+      \strng{authornamehash}{9e0bb28093a7c3159fe418fdd4f67e6e}
+      \strng{authorfullhash}{8da3546d51ad7dd66dc47c8f4be4a5ef}
+      \strng{authorfullhashraw}{8da3546d51ad7dd66dc47c8f4be4a5ef}
+      \field{extraname}{2}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Advanced Manufacturing Technology}
+      \field{number}{1--4}
+      \field{title}{Early Chatter Identification of Robotic Boring Process Using Measured Force of Dynamometer}
+      \field{volume}{94}
+      \field{year}{2018}
+      \field{pages}{1243\bibrangedash 1252}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1007/s00170-017-0941-6
+      \endverb
+      \keyw{A4.17}
+    \endentry
+    \entry{Yang2019_A3}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=938454f964d6c5f1dff40a53975d6678}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=394d641a0626e0504be74152c455899d}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=f374d6be8181acd345c04516d10bea90}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=602a29bc69d6755cee5ce57fb171886f}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Q.},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=b98be9f74b852ec37ba475bfa8cc7e23}{%
+           family={Sang},
+           familyi={S\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{7bcdd3cc20bd1511eb355bbea9743241}
+      \strng{fullhash}{e4d5ea93930c809dbb1a655e3a79999c}
+      \strng{fullhashraw}{e4d5ea93930c809dbb1a655e3a79999c}
+      \strng{bibnamehash}{e4d5ea93930c809dbb1a655e3a79999c}
+      \strng{authorbibnamehash}{e4d5ea93930c809dbb1a655e3a79999c}
+      \strng{authornamehash}{7bcdd3cc20bd1511eb355bbea9743241}
+      \strng{authorfullhash}{e4d5ea93930c809dbb1a655e3a79999c}
+      \strng{authorfullhashraw}{e4d5ea93930c809dbb1a655e3a79999c}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mechanical Systems and Signal Processing}
+      \field{title}{Early chatter identification based on an optimized variational mode decomposition}
+      \field{volume}{115}
+      \field{year}{2019}
+      \field{pages}{238\bibrangedash 254}
+      \range{pages}{17}
+      \keyw{A3.4}
+    \endentry
+    \entry{Ye2018_CoV}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=500b98ae7712946afc2970b33f4ed8c8}{%
+           family={Ye},
+           familyi={Y\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=adafe4e18202bbe3f81aa4e79ff4e1e4}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=9e3f5382bd82f58980e0e9c0368f63fc}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=66d365c9699fa36b959afcec99c12a36}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=6d4d76d3dacb90eb76d32a306c6c87fd}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{c20db1448011460227ae8d2726a387bd}
+      \strng{fullhash}{c2b36d484560335dee7109479a533e77}
+      \strng{fullhashraw}{c2b36d484560335dee7109479a533e77}
+      \strng{bibnamehash}{c2b36d484560335dee7109479a533e77}
+      \strng{authorbibnamehash}{c2b36d484560335dee7109479a533e77}
+      \strng{authornamehash}{c20db1448011460227ae8d2726a387bd}
+      \strng{authorfullhash}{c2b36d484560335dee7109479a533e77}
+      \strng{authorfullhashraw}{c2b36d484560335dee7109479a533e77}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Advanced Manufacturing Technology}
+      \field{number}{1--4}
+      \field{title}{A Novel Approach for Chatter Online Monitoring Using Coefficient of Variation in Machining Process}
+      \field{volume}{96}
+      \field{year}{2018}
+      \field{pages}{287\bibrangedash 297}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1007/s00170-017-1544-y
+      \endverb
+      \keyw{A4.17}
+    \endentry
+    \entry{Zhao2019_MaxEnt}{inproceedings}{}{}
+      \name{author}{4}{}{%
+        {{hash=d5ff4bd5ca210dc62374b1352daac212}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=2512a21f917b39b96d1e8b5e6036ec00}{%
+           family={Adjallah},
+           familyi={A\bibinitperiod},
+           given={K.\bibnamedelimi H.},
+           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=3e13e8b31d5b6528b5de9997ae969d00}{%
+           family={Sava},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=cc4aadc875d7abdbaf96dfa4a83d8b77}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris, France}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{f0b017a1562c07215d8549b750478149}
+      \strng{fullhash}{92377b2519624ad8d3d38afc721e8c18}
+      \strng{fullhashraw}{92377b2519624ad8d3d38afc721e8c18}
+      \strng{bibnamehash}{92377b2519624ad8d3d38afc721e8c18}
+      \strng{authorbibnamehash}{92377b2519624ad8d3d38afc721e8c18}
+      \strng{authornamehash}{f0b017a1562c07215d8549b750478149}
+      \strng{authorfullhash}{92377b2519624ad8d3d38afc721e8c18}
+      \strng{authorfullhashraw}{92377b2519624ad8d3d38afc721e8c18}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2019 6th International Conference on Control, Decision and Information Technologies (CoDIT)}
+      \field{title}{Early Chatter Detection Using MaxEnt and SPRT}
+      \field{year}{2019}
+      \field{pages}{1550\bibrangedash 1555}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/CoDIT.2019.8820670
+      \endverb
+      \keyw{A4.17}
+    \endentry
+    \entry{Zhou2018}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=288f1cb2dd384cb5e91127507559fdbc}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=37b8e0aa4435d8cbb959d62ad937e782}{%
+           family={Xue},
+           familyi={X\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{ead6f251afc769e383afca17647887af}
+      \strng{fullhash}{9c4dc7def31ba5705f8a1faec4bcf3d0}
+      \strng{fullhashraw}{9c4dc7def31ba5705f8a1faec4bcf3d0}
+      \strng{bibnamehash}{9c4dc7def31ba5705f8a1faec4bcf3d0}
+      \strng{authorbibnamehash}{9c4dc7def31ba5705f8a1faec4bcf3d0}
+      \strng{authornamehash}{ead6f251afc769e383afca17647887af}
+      \strng{authorfullhash}{9c4dc7def31ba5705f8a1faec4bcf3d0}
+      \strng{authorfullhashraw}{9c4dc7def31ba5705f8a1faec4bcf3d0}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Advanced Manufacturing Technology}
+      \field{title}{Review of tool condition monitoring methods in milling processes}
+      \field{volume}{96}
+      \field{year}{2018}
+      \field{pages}{2509\bibrangedash 2523}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1007/s00170-018-1768-5
+      \endverb
+      \keyw{A1.10}
+    \endentry
+    \entry{Zhu2020}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=0029d410aa3a4f17856f92f67e9000a0}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=fda8a6476fa840f1f86a595e38f1212a}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{65bfc0d8e6e8ad7cc0dbc0a1e53c277f}
+      \strng{fullhash}{4665ce0e9d81aaad2779941d73a6b913}
+      \strng{fullhashraw}{4665ce0e9d81aaad2779941d73a6b913}
+      \strng{bibnamehash}{4665ce0e9d81aaad2779941d73a6b913}
+      \strng{authorbibnamehash}{4665ce0e9d81aaad2779941d73a6b913}
+      \strng{authornamehash}{65bfc0d8e6e8ad7cc0dbc0a1e53c277f}
+      \strng{authorfullhash}{4665ce0e9d81aaad2779941d73a6b913}
+      \strng{authorfullhashraw}{4665ce0e9d81aaad2779941d73a6b913}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mechanical Systems and Signal Processing}
+      \field{title}{Recent progress of chatter prediction, detection and suppression in milling}
+      \field{volume}{143}
+      \field{year}{2020}
+      \field{pages}{106840}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.ymssp.2020.106840
+      \endverb
+      \keyw{A1.2}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

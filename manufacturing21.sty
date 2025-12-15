@@ -1,0 +1,70 @@
+% manufacturing21.sty -- Style helpers for Manufacturing’21 Toulon
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{manufacturing21}[2025/11/27 Manufacturing’21 Conference Style]
+
+\RequirePackage{etoolbox}
+
+% ---------------------------------
+% ABSTRACT
+% ---------------------------------
+\newenvironment{abstractM21}{%
+  \par\noindent\textbf{Abstract: }%
+}{%
+  \par\vspace{0.5\baselineskip}%
+}
+
+% ---------------------------------
+% KEYWORDS (ENTORNO, SIN #)
+% ---------------------------------
+\newenvironment{keywordsM21}{%
+  \par\noindent\textbf{Keywords: }%
+}{%
+  \par\vspace{1em}%
+}
+
+% ---------------------------------
+% AFFILIATIONS
+% ---------------------------------
+\newcommand{\affil}[1]{%
+  \textsuperscript{(#1)}%
+}
+
+\newcommand{\affiltext}[2]{%
+  \par\noindent\textsuperscript{(#1)}#2\par
+}
+
+\newenvironment{affiliationsM21}{%
+  \par\smallskip
+}{%
+  \par\medskip
+}
+
+% ---------------------------------
+% EMAIL (NUEVO ENTORNO, SIN #)
+% ---------------------------------
+% Uso:
+%   \begin{emailM21}
+%   someone@example.com
+%   \end{emailM21}
+
+\newenvironment{emailM21}{%
+  \par\noindent\textbf{Email: }%
+}{%
+  \par\medskip%
+}
+
+% ---------------------------------
+% ACKNOWLEDGMENTS
+% ---------------------------------
+\newenvironment{acknowledgmentsM21}{%
+  \section*{Acknowledgments}%
+}{%
+  \par
+}
+
+% ---------------------------------
+% TEST MACRO
+% ---------------------------------
+\newcommand{\teststy}{This comes from the STY.}
+
+\endinput
